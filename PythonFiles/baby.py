@@ -6,7 +6,7 @@ question = ["Why is my cat green?: ", "Why are marshmellos squishy?: ", "Why hav
 question = choice(question)
 answer = input(question).lower()
 
-while answer!= "just because":
+while answer != "just because":
     answer = input("why?: ").strip().lower()
 
 print("Oh... okay")
