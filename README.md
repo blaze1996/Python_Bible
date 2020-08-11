@@ -1,3 +1,4 @@
 # Python_Bible
 
-Here is my cool python project for prospective law schools to see!
+## About
+  This Python project compilation is for prospective law schools to see! In this Python course, I reviewed lectures designated for each       section of various programming techniques. I completed coding challenges at the end of each lecture to test my knowledge, and applied what I learned from each section to create a project. Each project required all of the previous skills plus a new one in order to run efficiently. From start to finish, I have learned in depth about the essential basics of Python, variables, string methods, slicing, conditional statements, lists, tuples, dictionaries, loops, functions, and object-oriented programming. By the end of this course, I have truly understood how powerful a tool programming can be in the legal profession – and fun to use.
