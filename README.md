@@ -31,7 +31,7 @@
     * Applied data structures to create an assortment of films using dictionaries, strings, lists, while loops, 
       if statements, and user input updating variables.
     
- ### Project 6:Baby Simulator
+ ### Project 6: Baby Simulator
  
     * Used while loops with a data structure to create an incessant feedback unless satisfied by a requirement.
     
